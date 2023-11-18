@@ -12,7 +12,7 @@
 - JAVASCRIPT
 - BACKTRACKING
 ### Project Architecture:
-
+https://github.com/baglaaarav/s3-website_cloudFront/blob/8834a82c7f972855f7a2119e207c5caf692982c1/diagram.png
 
 ### What I did:
 
